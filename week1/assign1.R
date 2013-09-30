@@ -1,4 +1,4 @@
-setwd("~/prj/courses/compdata-003/compdata/")
+setwd("~/prj/courses/compdata-003/compdata/week1")
 data = read.csv(file = "hw1_data.csv")
 
 # What are the column names of the dataset?
